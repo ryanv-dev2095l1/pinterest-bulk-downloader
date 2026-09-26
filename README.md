@@ -27,4 +27,4 @@ Options:
 python pinterest_dl.py https://www.pinterest.com/username/my-board-name/ -o D:\Media\Pinterest -w 16 --limit 100
 ```
 
-<!-- checked: 2026-09-25 -->
+<!-- checked: 2026-09-26 -->
